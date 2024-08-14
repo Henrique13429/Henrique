@@ -3,7 +3,7 @@ Sejam bem vindos(a) ❤❤
 # Henrique Silva 
 
 
-~Estou  cursando o Alura~
+_Estou  cursando o Alura_
 
 
 Estou aprendendo a linguagem JavaScript
